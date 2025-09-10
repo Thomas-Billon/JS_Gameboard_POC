@@ -4,7 +4,7 @@
 ![Status: Legacy](https://img.shields.io/badge/status-legacy-lightgrey)
 [![License: MIT](https://img.shields.io/badge/license-mit-green.svg)](LICENSE.md)
 
-Proof of concept for our 3D board game: Spicy Party.
+Proof of concept made in 2020 for our 3D board game: Spicy Party.
 
 **Warning:** Legacy project, it is no longer maintained. Use at your own risk.
 
