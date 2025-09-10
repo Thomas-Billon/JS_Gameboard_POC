@@ -1,7 +1,18 @@
-# Javascript Gameboard POC
+# Gameboard V1
 
-Proof of concept made in 2020 for a 3D board game using only vanilla JS.
+![Project: Sandbox](https://img.shields.io/badge/project-sandbox-blue.svg)
+![Status: Legacy](https://img.shields.io/badge/status-legacy-lightgrey)
+[![License: MIT](https://img.shields.io/badge/license-mit-green.svg)](LICENSE.md)
 
-### Requirements
+Proof of concept for our 3D board game: Spicy Party.
 
-* Needs to be run on a server to execute script modules properly
+**Warning:** Legacy project, it is no longer maintained. Use at your own risk.
+
+## Requirements
+
+* Needs to be run on a local server (Node.js, XAMPP, ...) to work properly
+
+## License Notice
+
+Distributed under the MIT License.<br>
+See [LICENSE](LICENSE.md) for more details.
