@@ -1,4 +1,4 @@
-# Gameboard V1
+# Board Game V1
 
 ![Project: Sandbox](https://img.shields.io/badge/project-sandbox-blue.svg)
 ![Status: Legacy](https://img.shields.io/badge/status-legacy-lightgrey)
